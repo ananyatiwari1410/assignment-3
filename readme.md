@@ -88,9 +88,9 @@ No additional installations are required.
 **Ananya Tiwari**
 Computer Science Engineering | AI & ML
 
-- **Email:**xyz@gmail.com
-- **Phone:** 99xxx
-- **GitHub:** [https://github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- **Email:** tiwariananya1410@gmail.com
+- **Phone:** 9220403177
+- **GitHub:** https://github.com/ananyatiwari1410
 
 
 
