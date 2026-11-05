@@ -1,114 +1,99 @@
-Here is a completely new README for an SDG-based project, maintaining the same format and professional GitHub style. I've used SDG 12 (Responsible Consumption and Production), which connects well with your food-waste management project, ThaliTrack.
+# Ananya Tiwari | Personal Portfolio Website
 
-# ThaliTrack | A Step Towards Sustainable Food Management
+A simple and interactive personal portfolio website created to introduce myself, display my technical skills, and provide an overview of my work in web development.
 
-Welcome to ThaliTrack! This project focuses on addressing food wastage through technology and sustainable food management practices. It aims to create awareness about responsible food consumption while encouraging smarter and more efficient canteen operations.
+## About the Website
 
-## About the Project
+This portfolio is designed as a personal space to showcase my interest in web development and my journey as a student developer. It provides visitors with an overview of my background, skills, projects, and contact details through a clean and organized interface.
 
-ThaliTrack is a technology-based solution developed with the objective of reducing food wastage in canteens and promoting responsible consumption.
+The website is built using basic front-end technologies and features a blue-themed design with a simple navigation system.
 
-The platform focuses on simplifying food ordering, estimating food demand, and helping food providers manage resources more efficiently. By combining digital solutions with sustainability, the project contributes towards building a more responsible food management system.
+## Website Sections
 
-## Sustainable Development Goal
+### 1. Home Section
 
-**SDG 12 – Responsible Consumption and Production**
+Introduces me as a Full Stack Developer and includes a short description of my interest in building web applications.
 
-This project aligns with the United Nations Sustainable Development Goal 12, which promotes sustainable consumption patterns and efficient resource utilization.
+### 2. About Me
 
-Its primary focus is on:
+Provides a brief introduction about my background, learning journey, and enthusiasm for web development.
 
-- Minimizing food wastage.
-- Encouraging responsible consumption habits.
-- Improving food inventory management.
-- Promoting efficient utilization of resources.
-- Creating awareness about sustainable food practices.
+### 3. Skills
 
-## Key Objectives
+Displays my current technical skills:
 
-- Develop a digital platform for convenient canteen food ordering.
-- Predict food demand to help avoid unnecessary preparation.
-- Reduce excess food production and wastage.
-- Improve coordination between customers and food providers.
-- Encourage environmentally responsible practices.
+- HTML – Beginner
+- CSS – Beginner
+- JavaScript – Learning
 
-## Technologies and Concepts
+### 4. Projects
 
-| Technology / Concept | Purpose                                 |
-| -------------------- | --------------------------------------- |
-| HTML5                | Structuring the web interface           |
-| CSS3                 | Designing the user interface            |
-| Python               | Programming and prediction logic        |
-| Machine Learning     | Estimating food demand                  |
-| Data Analysis        | Understanding food consumption patterns |
+Contains a dedicated section to display my web development projects and practical experiments.
 
-## Major Components
+### 5. Contact
 
-### 1. Digital Food Ordering
+Includes a contact form where visitors can enter their name, email address, and message.
 
-Provides users with a convenient way to explore available food items and place orders digitally.
+### 6. Navigation
 
-### 2. Food Demand Prediction
+Provides links to different sections of the website, allowing visitors to move between them easily.
 
-Uses consumption patterns and previous ordering data to estimate future food requirements.
+## Technologies Used
 
-### 3. Waste Reduction
+| Technology        | Purpose                                  |
+| ----------------- | ---------------------------------------- |
+| HTML5             | Creating the structure and content       |
+| CSS3              | Styling and designing the webpage        |
+| CSS Flexbox       | Arranging elements and layouts           |
+| CSS Media Queries | Adjusting the layout for smaller screens |
 
-Helps canteen operators make informed preparation decisions and minimize surplus food.
+## Design Highlights
 
-### 4. Sustainable Food Management
-
-Encourages better resource planning and responsible consumption through technology.
-
-## Expected Impact
-
-ThaliTrack aims to contribute towards a more sustainable food ecosystem by reducing avoidable wastage and improving resource management.
-
-The project highlights how even small technological interventions can support larger environmental goals.
-
-## Future Scope
-
-- Integration of advanced machine learning models.
-- Real-time inventory tracking.
-- Digital payment integration.
-- Food consumption analytics and reports.
-- Expansion to restaurants and institutional cafeterias.
+- Blue and teal colour theme.
+- Simple and clean webpage layout.
+- Hover effects on navigation links and buttons.
+- Styled project and skill display cards.
+- Responsive layout for mobile screens.
+- Back-to-top navigation link.
+- Developer profile illustration.
 
 ## Project Structure
 
 ```
-ThaliTrack/
+Ananya-Portfolio/
 │
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-└── README.md
+└── index.html
 ```
 
-## Running the Project
+## How to Run the Website
 
-1. Clone or download the repository.
-2. Open the project folder.
-3. Locate the `index.html` file.
-4. Launch it using a web browser.
+1. Download or clone the repository.
+2. Open the downloaded project folder.
+3. Find the `index.html` file.
+4. Double-click the file or open it using any web browser.
+5. The portfolio website will appear in your browser.
 
-## SDG Reference
+No additional installations are required.
 
-United Nations – Sustainable Development Goal 12: Responsible Consumption and Production.
+## Future Improvements
 
-[https://sdgs.un.org/goals/goal12](https://sdgs.un.org/goals/goal12)
-
-I removed the personal contact section when converting it into an SDG project README. You can add it back at the end like this:
+- Add JavaScript functionality and interactive elements.
+- Include actual project descriptions and demonstrations.
+- Add social media and GitHub profile links.
+- Improve the contact form with form submission functionality.
+- Expand the skills section as I learn new technologies.
 
 ## Connect With Me
 
 **Ananya Tiwari**
 Computer Science Engineering | AI & ML
 
-- **Email:** xyz@gmail.com
-- **Phone:** 99XXX
-- **GitHub:** [https://github.com/ananya1](https://github.com/YOUR-USERNAME)
+- **Email:**xyz@gmail.com
+- **Phone:** 99xxx
+- **GitHub:** [https://github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
 
 
 
+*Designed and developed by Ananya Tiwari | 2026*
+
+One important note: Your current contact form is only a visual form; it does not actually send messages because no backend or form-submission service is connected.
